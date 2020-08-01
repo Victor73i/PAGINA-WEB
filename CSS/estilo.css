@@ -1,0 +1,140 @@
+#principal{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 1px solid #000;
+	margin: auto; 
+}
+h3{
+	width: 200px;
+	height: 100px
+	border: 1px solid #000;
+
+
+}
+   .titulo{
+   	font-size: 20px;
+   } 
+.subtitulo{
+	font-size: 14px;
+	margin-top: -10px;
+}
+.titulo1{
+	font-size: 18px;
+	margin-top: -10px;
+}
+
+#logo{
+	width: 420px;
+	height: auto; overflow: hidden;
+	border: 1px solid #000;
+    float: left;
+
+}
+.menu{
+	width: 470px;
+	height: 100px;
+	margin-top: 20px;
+
+	float: left; 
+
+}
+.menu ul{
+}
+.menu ul li {
+	list-style: none;
+    float: left;
+}
+.menu ul li a{
+	text-decoration: none;
+	padding: 15px 15px;
+	border: 1px solid #000;
+	color: white;
+    background: blue;
+
+}
+.menu ul li a:hover{
+	background: gray;
+	color: blue;
+	transition: background 1s, color 1s;
+
+}
+
+#imagen1{
+margin-top: -5px;
+width: 900px;
+height: 250px;
+
+}
+#categorias{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 1px solid #000;
+	margin-top: 15px;
+}
+.uno{
+	width: 280px;
+	height: auto; overflow: hidden;
+	border: 1px solid;
+	float: left;
+	padding: 5px;
+	text-align: center;
+	
+}
+.uno:hover{
+	background: gray;
+	color: white;
+	transition: background 1s, color 1s;
+}
+.dos{
+	margin-left: 12px;
+margin-right: 12px;
+}
+.leer-mas{
+	text-decoration: none;
+	padding: 10px 20px 10px 20px;
+	border: 1px solid #000;
+	margin: 10px;
+    color #ppp;
+}
+.leer-mas:hover{
+	background: gray;
+	color: white;
+	transition: background 1s, color 1s;
+}
+
+#info{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 1px solid #000;
+	margin-top: 10px;
+}
+#izq{
+	width: 590px;
+	height: auto; overflow: hidden;
+	border: 1px solid #000;
+	float: left;
+}
+#der{
+	width: 290px;
+	height: auto; overflow: hidden;
+	border: 1px solid #000;
+   float: right;
+}
+.datos{
+	text-decoration: none;
+	
+    color #ppp;
+}
+.datos:hover{
+background: gray;
+	color: white;
+	transition: background 1s, color 1s;
+}
+footer{
+	width: 500px;
+	height: auto; overflow: hidden;
+	text-align: center;
+}
+footer p{
+	width: 500px;
+}
